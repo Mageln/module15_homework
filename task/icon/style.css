@@ -1,0 +1,15 @@
+.btn {
+    display: flex;
+    width: 90px;
+    align-items: center;
+}
+
+.btn_text {
+    padding-right: 10px;
+}
+
+.btn_icon{
+    display: flex;
+    align-items:center
+}
+
